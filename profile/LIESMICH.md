@@ -17,7 +17,7 @@ Ort: **Community Operations – C&C Open-Source Front**
 **Notiz: Code ist sexy & hart. Keine Diskussionen. Bitte vertraulich behandeln, Sarge.*
 
 
-
+### Hallo Sarge, sie haben lange gebraucht! Fangen wir direkt an!
 ![Tanya Adams – Community-Cover-Referenz](tanya.jpg)
 *Hinweis: Hero-Porträt für Community-Projekte, Tanya, nur stilistische Referenz. Sie leitet das Briefing.*
 
