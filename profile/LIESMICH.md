@@ -1,5 +1,5 @@
 ## Command & Conquer Open-Source-Projekte (Post-GPL)
-[English briefing](README.md)
+##### [English briefing](README.md)
 
 
 ![General – Community-Cover-Referenz](general.jpg)
