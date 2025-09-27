@@ -17,7 +17,7 @@ Ort: **Community Operations – C&C Open-Source Front**
 ---
 
 
-![Tanya Adams – Community-Cover-Referenz](tanja.jpg)
+![Tanya Adams – Community-Cover-Referenz](tanya.jpg)
 *Hinweis: Hero-Porträt für Community-Projekte, Tanya, nur stilistische Referenz. Sie leitet das Briefing.*
 
 <details>
