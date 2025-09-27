@@ -1,10 +1,8 @@
 ## Command & Conquer Open-Source-Projekte (Post-GPL)
+![General – Community-Cover-Referenz](general.jpg)
+*Hinweis: Hero-Porträt für Community-Projekte, General, nur stilistische Referenz.*
 
-![Tanya Adams – Community-Cover-Referenz](tanja.jpg)
-*Hinweis: Hero-Porträt für Community-Projekte, keine Erotik, nur stilistische Referenz.*
 
-![Tanya Adams – Community-Cover-Referenz](tanja.jpg)
-*Hinweis: Hero-Porträt für Community-Projekte, keine Erotik, nur stilistische Referenz.*
 
 # 📝 Mission Briefing: C&C Open-Source Operation
 
@@ -14,9 +12,12 @@ Ende: ungewiss (evtl. tödlich)
 Ort: **Community Operations – C&C Open-Source Front**
 
 **Befehlshaberin:** Kommandantin Tanya — streng, befehlshabend.
-*Notiz: sexy & hart. Bitte vertraulich behandeln, Sarge.*
-
+*Notiz: Code ist sexy & hart. Keine Diskussionen. Bitte vertraulich behandeln, Sarge.*
 ---
+
+
+![Tanya Adams – Community-Cover-Referenz](tanja.jpg)
+*Hinweis: Hero-Porträt für Community-Projekte, Tanya, nur stilistische Referenz. Sie leitet das Briefing.*
 
 <details>
 <summary>📑 Briefing mit Tanja </summary>
