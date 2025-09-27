@@ -1,8 +1,9 @@
 ## Command & Conquer Open-Source-Projekte (Post-GPL)
+[English briefing](README.md)
+
+
 ![General – Community-Cover-Referenz](general.jpg)
 *Hinweis: Hero-Porträt für Community-Projekte, General, nur stilistische Referenz.*
-
-
 
 # 📝 Mission Briefing: C&C Open-Source Operation
 
