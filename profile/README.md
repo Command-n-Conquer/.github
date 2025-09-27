@@ -3,108 +3,118 @@
 ![Tanya Adams – Community-Cover-Referenz](tanja.jpg)
 *Hinweis: Hero-Porträt für Community-Projekte, keine Erotik, nur stilistische Referenz.*
 
-<details>
-<summary>📑 Table of Contents</summary>
+![Tanya Adams – Community-Cover-Referenz](tanja.jpg)
+*Hinweis: Hero-Porträt für Community-Projekte, keine Erotik, nur stilistische Referenz.*
 
-1. [Command & Conquer Open-Source-Projekte (Post-GPL)](#command--conquer-open-source-projekte-post-gpl)
-2. [I. Projekte auf Basis der Remastered-Cores](#i-projekte-auf-basis-der-remastered-cores-tiberian-dawn--red-alert-1)
-3. [II. Open-Source Engine-Reimplementierungen](#ii-open-source-engine-reimplementierungen-vor-und-nach-gpl)
-4. [III. Projekte auf Basis der später freigegebenen Cores](#iii-projekte-auf-basis-der-später-freigegebenen-cores-generals--renegade)
+# 📝 Mission Briefing: C&C Open-Source Operation
+
+**Sarge — Einsatzbefehl eingegangen.**  
+Start: **27. Februar 2025, 08:00 Uhr**  
+Ende: ungewiss (evtl. tödlich)  
+Ort: **Community Operations – C&C Open-Source Front**
+
+**Befehlshaberin:** Kommandantin Tanya — streng, befehlshabend.
+*Notiz: sexy & hart. Bitte vertraulich behandeln, Sarge.*
+
+---
+
+<details>
+<summary>📑 Briefing mit Tanja </summary>
+
+1. [I. Projekte auf Basis der Remastered-Cores](#i-projekte-auf-basis-der-remastered-cores-tiberian-dawn--red-alert-1)
+2. [II. Open-Source Engine-Reimplementierungen](#ii-open-source-engine-reimplementierungen-vor-und-nach-gpl)
+3. [III. Projekte auf Basis der später freigegebenen Cores](#iii-projekte-auf-basis-der-später-freigegebenen-cores-generals--renegade)
    - [A. Generals/Zero Hour (SAGE-Engine)](#a-generalszero-hour-sage-engine)
    - [B. Renegade (W3D-Engine)](#b-renegade-w3d-engine)
-5. [⚠️ Entwickler-Hinweise: Assets & FOSS-Ziel](#-entwickler-hinweise-assets--foss-ziel)
-   - [1. Rechtliche Situation](#1-rechtliche-situation)
-   - [2. Community-Ziel](#2-community-ziel)
-6. [🛠️ Community-Tipps & Modding-Tools](#-community-tipps--modding-tools)
-7. [💡 Best Practices](#-best-practices)
+4. [Entwickler-Hinweise: Assets & FOSS-Ziel](#entwickler-hinweise-assets--foss-ziel)
+5. [Community-Tipps & Modding-Tools](#community-tipps--modding-tools)
+6. [Best Practices](#best-practices)
 
 </details>
 
-
-
-Hier sind die wichtigsten Projekte, die auf oder mit den freigegebenen C&C-Cores arbeiten, aufgeteilt nach Engine-Basis.
-
 ---
 
-### I. Projekte auf Basis der Remastered-Cores (Tiberian Dawn & Red Alert 1)
-
-Die Cores von *Tiberian Dawn* und *Red Alert 1* wurden 2020 freigegeben und dienen hauptsächlich der **Mod-Entwicklung** innerhalb der Remastered Collection oder der Verbesserung existierender Engines.
+## I. Projekte auf Basis der Remastered-Cores (Tiberian Dawn & Red Alert 1)
 
 | Projekt                            | Beschreibung                                                                                                             | Link                                                                   |
 | :--------------------------------- | :----------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------- |
-| **C&C Remastered Collection Mods** | Übergeordnete Kategorie für viele Community-Mods (Balance, neue Einheiten, Kampagnen) auf Basis des freigegebenen Codes. | [C&C Remastered Modding Discord](https://discord.gg/commandandconquer) |
-| **OpenC&C** (Konzept)              | Zukünftiges Community-Projekt: plattformunabhängige Neuimplementierung der Remastered-Cores. *(Noch in Konzeptphase)*    | [GitHub OpenC&C](https://github.com/electronicarts)                    |
+| **C&C Remastered Collection Mods** | Viele Community-Mods: Balance, neue Einheiten, Kampagnen.                                                               | [C&C Modding Discord](https://discord.gg/commandandconquer)            |
+| **OpenC&C** (Konzept)              | Plattformunabhängige Neuimplementierung. *(Noch in Konzeptphase)*                                                       | [GitHub OpenC&C](https://github.com/electronicarts)                    |
+
+Tanya: „Diese alten Kerne sind robust – pimpt sie clever, sonst schickt euch der Feind nach Hause.“  
+[ ] Check: Testet zuerst die Engine, dann Mods, nicht alles auf einmal.  
 
 ---
 
-### II. Open-Source Engine-Reimplementierungen (vor und nach GPL)
-
-Diese Projekte existieren schon länger, wurden durch die Öffnung des Quellcodes (2025: SAGE & W3D) noch gestärkt und bieten **vollständige, moderne Engine-Reimplementierungen** unter GPL.
+## II. Open-Source Engine-Reimplementierungen (vor und nach GPL)
 
 | Projekt    | Beschreibung                                                                                                                                                      | Link                                  |
 | :--------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------ |
-| **OpenRA** | Moderne Reimplementierung für Red Alert, Tiberian Dawn und Dune 2000, inkl. Angriffsbewegung & Nebel des Krieges. Läuft nativ auf Windows, macOS & Linux (GPLv3). | [openra.net](https://www.openra.net/) |
-| **CnCNet** | Zentrale Online-Multiplayer-Plattform für klassische C&C-Titel. Clients & Patches sind Open Source (GPLv3).                                                       | [cncnet.org](https://cncnet.org/)     |
+| **OpenRA** | Reimplementierung für Red Alert, Tiberian Dawn & Dune 2000.                                                                                                       | [openra.net](https://www.openra.net/) |
+| **CnCNet** | Online-Multiplayer-Plattform für klassische C&C-Titel.                                                                                                           | [cncnet.org](https://cncnet.org/)     |
+
+Tanya: „OpenRA & CnCNet = zuverlässige Waffen. Nutzt sie, sonst gibt’s Ärger!“  
+[ ] Check: Multiplayer vorher in Low-Res testen, um Zeit & Ressourcen zu sparen.  
 
 ---
 
-### III. Projekte auf Basis der später freigegebenen Cores (Generals & Renegade)
+## III. Projekte auf Basis der später freigegebenen Cores (Generals & Renegade)
 
-Die Freigabe der **Cores von Generals/Zero Hour (SAGE)** und **Renegade (W3D)** im Februar 2025 hat enormes Entwicklungspotenzial freigesetzt.
-
-#### A. Generals/Zero Hour (SAGE-Engine)
+### A. Generals/Zero Hour (SAGE-Engine)
 
 | Projekt                         | Beschreibung                                                                            | Link                                                                        |
 | :------------------------------ | :-------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------- |
-| **Generals/ZH Community Patch** | Früher nur Mod, jetzt mit GPL-Core auf Engine-Ebene verbessert: Lags, Desyncs, Balance. | [GitHub: Generals/ZH Source](https://github.com/electronicarts)             |
-| **SAGE Engine Modernisierung**  | Community-Initiativen für 4K-Auflösungen, höhere FPS & native 64-Bit-Architektur.       | [C&C Modding Discord / Reddit](https://www.reddit.com/r/commandandconquer/) |
+| **Generals/ZH Community Patch** | Früher nur Mod, jetzt auf Engine-Ebene verbessert: Lags, Desyncs, Balance.             | [GitHub: Generals/ZH Source](https://github.com/electronicarts)             |
+| **SAGE Engine Modernisierung**  | 4K, FPS, 64-Bit.                                                                       | [C&C Modding Discord / Reddit](https://www.reddit.com/r/commandandconquer/) |
 
-#### B. Renegade (W3D-Engine)
+Tanya: „SAGE-Engine ist euer Schlachtfeld – Bugs pulverisieren, FPS hochschrauben!“  
+[ ] Check: Testet Änderungen in kleinen Schritten.  
+
+### B. Renegade (W3D-Engine)
 
 | Projekt             | Beschreibung                                                                                                                  | Link                                  |
 | :------------------ | :---------------------------------------------------------------------------------------------------------------------------- | :------------------------------------ |
-| **W3DHub Projekte** | Dachorganisation für Mod-Projekte auf W3D. GPL-Core erlaubt tiefgreifende Engine-Upgrades & Modding für Titel wie Renegade X. | [w3dhub.com](https://www.w3dhub.com/) |
+| **W3DHub Projekte** | Dachorganisation für Mod-Projekte.                                                                                             | [w3dhub.com](https://www.w3dhub.com/) |
+
+Tanya: „Renegade X & Co – nutzt den GPL-Core, dann wird’s richtig stark.“  
+[ ] Check: Alle Modding-Tools dokumentieren, Lizenz prüfen.  
 
 ---
 
-## ⚠️ Entwickler-Hinweise: Assets & FOSS-Ziel
-
-* **Engine-Code**: GPLv3 – vollständig frei nutzbar.
-* **Proprietäre Assets (Grafiken, Sounds, Texturen, Videos)**: bleiben EA-eigen, dürfen nicht ohne Kauf/Erlaubnis verwendet werden.
-
-### 1. Rechtliche Situation
+## Entwickler-Hinweise: Assets & FOSS-Ziel
 
 | Zustand                       | Code  | Assets          | Legalität                         |
 | :---------------------------- | :---- | :-------------- | :-------------------------------- |
 | Original-Assets genutzt       | GPLv3 | Proprietär      | ❌ Nur mit Spielkauf legal         |
 | Eigene Assets / CC-lizenziert | GPLv3 | Neu/Open-Source | ✅ Vollwertiges FOSS-Spiel möglich |
 
-### 2. Community-Ziel
-
-* Alle Assets ersetzen → komplett freie Software.
-* Ergebnis: natives, unabhängiges Spiel (Linux/Android/Windows) ohne Kaufpflicht.
-* Nutzt die Westwood-Engine-Logik, Inhalte komplett neu & frei lizenziert.
+Tanya: „Code ist frei, Assets? Keine Cheats! Eigene Kreation = Sieg.“  
+[ ] Check: Alle proprietären Assets ersetzen → echtes FOSS-Projekt.  
 
 ---
 
-## 🛠️ Community-Tipps & Modding-Tools
-
-Damit Bastler direkt starten können, hier ein paar **essentielle Ressourcen**:
+## Community-Tipps & Modding-Tools
 
 | Tool / Ressource           | Beschreibung                                            | Link                                                               |
 | :------------------------- | :------------------------------------------------------ | :----------------------------------------------------------------- |
-| **OpenRA Map Editor**      | Karten für Red Alert / Tiberian Dawn erstellen & testen | [openra.net/maps](https://www.openra.net/maps/)                    |
+| **OpenRA Map Editor**      | Karten erstellen & testen                               | [openra.net/maps](https://www.openra.net/maps/)                    |
 | **CnCNet Lobby / Clients** | Multiplayer testen, Patches & Mods online nutzen        | [cncnet.org/downloads](https://cncnet.org/downloads)               |
-| **SAGE Modding Tools**     | Community-Tools für Generals & Zero Hour Modding        | [r/commandandconquer](https://www.reddit.com/r/commandandconquer/) |
+| **SAGE Modding Tools**     | Tools für Generals & Zero Hour Modding                  | [r/commandandconquer](https://www.reddit.com/r/commandandconquer/) |
 | **W3DHub Tools**           | Renegade Modding & Level-Editoren                       | [w3dhub.com/tools](https://www.w3dhub.com/tools)                   |
-| **Community Asset Packs**  | CC0- oder selbst erstellte Assets für FOSS-Projekte     | [OpenGameArt.org](https://opengameart.org/)                        |
+| **Community Asset Packs**  | CC0- oder selbst erstellte Assets                       | [OpenGameArt.org](https://opengameart.org/)                        |
+
+Tanya: „Wenn ihr meine Tools ignoriert, gibts morgen Extra-Drill. Macht’s sauber!“  
 
 ---
 
-## 💡 Best Practices
+## Best Practices
 
-1. **Kleine Schritte beim Testen:** Zuerst Engine + Logik testen, dann Assets, dann komplette Szenen.
-2. **Safe Prompts für Charakterbilder (z. B. Tanya Adams):** Subtil, Blick + Pose, Schmutz & Schweiß, keine Erotik.
-3. **Testen in Low-Res:** Spart Credits / Renderzeit, bevor hochauflösende Bilder erzeugt werden.
-4. **Dokumentation:** Jede Mod / jedes Tool sauber im Repo dokumentieren, Links & Lizenz klar angeben.
+1. Engine → Assets → Szenen testen.  
+2. Safe Prompts für Tanya: subtil, Blick + Pose, Schmutz & Schweiß, keine Erotik.  
+3. Low-Res Tests sparen Credits & Renderzeit.  
+4. Jede Mod sauber dokumentieren, Links & Lizenz klar angeben.  
+
+Tanya: „Keine Ausreden, Mods perfektionieren, Community stolz machen – los geht’s!“
+
+
 
