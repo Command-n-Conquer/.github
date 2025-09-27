@@ -14,7 +14,7 @@ Ort: **Community Operations – C&C Open-Source Front**
 
 **Befehlshaberin:** Kommandantin Tanya — streng, befehlshabend.
 *Notiz: Code ist sexy & hart. Keine Diskussionen. Bitte vertraulich behandeln, Sarge.*
----
+
 
 
 ![Tanya Adams – Community-Cover-Referenz](tanya.jpg)
